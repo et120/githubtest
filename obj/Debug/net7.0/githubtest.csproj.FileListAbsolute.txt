@@ -1,0 +1,14 @@
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\bin\Debug\net7.0\githubtest.exe
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\bin\Debug\net7.0\githubtest.deps.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\bin\Debug\net7.0\githubtest.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\bin\Debug\net7.0\githubtest.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\bin\Debug\net7.0\githubtest.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\obj\Debug\net7.0\githubtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\obj\Debug\net7.0\githubtest.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\obj\Debug\net7.0\githubtest.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\obj\Debug\net7.0\githubtest.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\obj\Debug\net7.0\githubtest.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\obj\Debug\net7.0\refint\githubtest.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\obj\Debug\net7.0\githubtest.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\obj\Debug\net7.0\githubtest.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Level1\Week1\githubtest\obj\Debug\net7.0\ref\githubtest.dll
